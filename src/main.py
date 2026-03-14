@@ -1,2 +1,2 @@
 print("Hello World")
-print("Fixing validation... Complete.")
+print("Fixing validation... Complete")
